@@ -1,5 +1,20 @@
 # The Kubernetes documentation
 
+## hugo
+##     mkdir D:\Git\Hugo
+##     cd D:\Git\Hugo
+##     go install -tags extended github.com/gohugoio/hugo@v0.133.0
+##     
+##     hugo mod get -u github.com/google/docsy
+##     hugo mod tidy
+##     hugo mod npm pack
+##     npm install
+##     
+##     hugo server --bind 0.0.0.0 --port 1313 --buildDrafts --disableFastRender
+##     
+##     certutil -hashfile "D:\Git\Kubernetes\00 Kubernetes.website\node_modules\split.js\dist\split.min.js" SHA384
+## 
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/be93b718-a6df-402a-b4a4-855ba186c97d/deploy-status)](https://app.netlify.com/sites/kubernetes-io-main-staging/deploys) [![GitHub release](https://img.shields.io/github/release/kubernetes/website.svg)](https://github.com/kubernetes/website/releases/latest)
 
 This repository contains the assets required to build the [Kubernetes website and documentation](https://kubernetes.io/). We're glad that you want to contribute!
