@@ -3,17 +3,15 @@
     "dependencies": {},
     "devDependencies": {
       "autoprefixer": "project",
-      "bootstrap": "project",
       "docsy": "project",
-      "postcss-cli": "project",
-      "split.js": "project"
+      "postcss-cli": "project"
     }
   },
-  "dependencies": {},
   "devDependencies": {
-    "autoprefixer": "^10.4.20",
     "bootstrap": "^5.3.3",
+    "autoprefixer": "^10.4.20",
     "docsy": "github:google/docsy#v0.6.x",
+    "jquery": "^3.7.1",
     "postcss-cli": "^11.0.0",
     "split.js": "^1.6.5"
   },
