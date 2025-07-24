@@ -7,8 +7,8 @@
       "postcss-cli": "project"
     }
   },
-  "dependencies": {},
   "devDependencies": {
+    "bootstrap": "^5.3.3",
     "autoprefixer": "^10.4.20",
     "docsy": "github:google/docsy#v0.6.x",
     "postcss-cli": "^11.0.0"
