@@ -5,7 +5,8 @@
       "autoprefixer": "project",
       "bootstrap": "project",
       "docsy": "project",
-      "postcss-cli": "project"
+      "postcss-cli": "project",
+      "split.js": "project"
     }
   },
   "dependencies": {},
@@ -13,7 +14,8 @@
     "autoprefixer": "^10.4.20",
     "bootstrap": "^5.3.3",
     "docsy": "github:google/docsy#v0.6.x",
-    "postcss-cli": "^11.0.0"
+    "postcss-cli": "^11.0.0",
+    "split.js": "^1.6.5"
   },
   "name": "kubernetes.io",
   "private": true,
